@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PurpleDrop)(type KiCad)(uri ${KIPRJMOD}/PurpleDrop.pretty)(options "")(descr ""))
+  (lib (name electrodes)(type KiCad)(uri ${KIPRJMOD}/electrodes.pretty)(options "")(descr ""))
+)

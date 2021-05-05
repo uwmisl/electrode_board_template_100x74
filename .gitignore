@@ -1,0 +1,6 @@
+*.kicad_pcb-bak
+*.sch-bak
+*.swp
+_autosave*
+component_layout_plugin.log
+fp-info-cache
